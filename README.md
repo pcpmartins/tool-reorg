@@ -15,6 +15,7 @@ This tool can be used to reorganize feature verctors by column. In the process o
 ## Input
 
 Any feature vector in CSV format.(e.g:input.csv).
+The pretended columns and order to retain(e.g:input_cols.csv)
 
 ## Output
 
